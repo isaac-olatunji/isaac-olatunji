@@ -14,7 +14,10 @@ I am a Business Intelligence Analyst with a strong interest in financcial and bu
 ## Soft Skills
 - Leadership
 - Communication
-- Team Collaboration
+- Team Work and Collaboration
+- Emotional Intellegience
+- Organization
+- Problem Solving
 
 
 ## 📊 Projects
