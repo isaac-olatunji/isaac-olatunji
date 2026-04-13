@@ -1,15 +1,21 @@
 # Hi, I'm Isaac 👋🏾
 
-💡 I am passionate about using data to solve business problems and drive strategic decisions.
+💡 I leverage data analytics tools such as SQL and Power BI to analyze financial performance, uncover business insights, and support data-driven decision-making.
 
 ## 🚀 About Me
-I am an aspiring Business Intelligence Analyst with a strong interest in financcial and business data analysis. I enjoy transforming raw data into actionable insights that support decision-making.
+I am a Business Intelligence Analyst with a strong interest in financcial and business data analysis. I enjoy transforming raw data into actionable insights that support decision-making.
 
 ## 🛠️ Skills
 - SQL
 - Power BI
 - Excel
 - Python (Learning)
+
+## Soft Skills
+- Leadership
+- Communication
+- Team Collaboration
+
 
 ## 📊 Projects
 - Financial Pewrformance Dashboard (Power BI)....coming soon
