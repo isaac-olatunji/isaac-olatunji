@@ -11,7 +11,7 @@ I am a Business Intelligence Analyst with a strong interest in financcial and bu
 - Excel
 - Python (Learning)
 
-## Soft Skills
+## 🗣️ Soft Skills
 - Leadership
 - Communication
 - Team Work and Collaboration
