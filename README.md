@@ -1,32 +1,69 @@
-# Hi, I'm Isaac 👋🏾
+# Hey, I'm Isaac Olatunji 👋🏾
+### Business Intelligence Analyst | Power BI • SQL • Business Reporting • Data Storytelling
 
-💡 I leverage data analytics tools such as SQL and Power BI to analyze financial performance, uncover business insights, and support data-driven decision-making.
+I enjoy turning raw business data into insights that help teams make smarter decisions.
 
-## 🚀 About Me
-I am a Business Intelligence Analyst with a strong interest in financcial and business data analysis. I enjoy transforming raw data into actionable insights that support decision-making.
+What interests me most about Business Intelligence is not just building dashboards — it's understanding the business problems behind the numbers. I like exploring why performance changes, what trends matter, and how reporting can become clearer and more useful for decision-makers.
 
-## 🛠️ Skills
-- SQL
-- Power BI
-- Excel
-- Python (Learning)
+My approach to BI is business-first. I focus on building reporting solutions that improve visibility, simplify decision-making, and answer real business questions.
 
-## 🗣️ Soft Skills
-- Leadership
-- Communication
-- Team Work and Collaboration
-- Emotional Intellegience
-- Organization
-- Problem Solving
+I'm especially interested in:
+- Data analysis & business reporting
+- Power BI dashboard development
+- SQL querying & trend analysis
+- KPI tracking & performance insights
+- Data storytelling & stakeholder communication
+- Business process understanding
 
+---
 
-## 📊 Projects
-- Financial Pewrformance Dashboard (Power BI)....coming soon
+# 🛠️ Tools & Technologies
 
-## 📈 What I'm Currently Working On
-- Building real-world business dashboards
-- Improving my SQL Skills for data analysis
-- Learning Python for data analytics
+| Area | Tools |
+|---|---|
+| **Business Intelligence** | Power BI |
+| **Data Querying** | SQL |
+| **Data Analysis** | Microsoft Excel |
+| **Data Modelling** | Power Query • DAX |
+| **Learning** | Python for Data Analytics |
+| **Workflow & Collaboration** | Agile • Scrum • Process Mapping |
 
-## 📫 Connect With Me
-- LinkedIn: linkedin.com/in/olatunjiisaac
+---
+
+# 📂 Featured Project
+
+## 📊 Financial Performance Dashboard *(Power BI)*
+
+An interactive financial analytics dashboard designed to monitor revenue, expenses, profitability trends, and operational KPIs through executive-focused reporting and data storytelling.
+
+### Key Focus Areas
+- KPI reporting
+- Financial trend analysis
+- Data modelling
+- DAX calculations
+- Interactive dashboard design
+- Stakeholder-focused insights
+
+### Tools Used
+Power BI • Power Query • DAX • Excel
+
+> 🚧 Currently refining the dashboard experience and project documentation before deployment.
+
+---
+
+# 📚 Currently Learning
+- Advanced SQL querying & optimisation
+- Python for data analysis
+- Dashboard UX & data storytelling
+- Reporting automation
+- Business process analysis
+
+---
+
+# 🤝 Connect With Me
+- 💼 LinkedIn: [www.linkedin.com/in/olatunjiisaac](https://www.linkedin.com/in/olatunjiisaac)
+- 📧 Email: olatunjiisaac001@gmail.com
+
+---
+
+> *"The goal is not to have more data. The goal is to have better decisions."*
