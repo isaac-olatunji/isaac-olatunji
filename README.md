@@ -32,7 +32,7 @@ I'm especially interested in:
 
 # 📂 Featured Project
 
-## 📊 Financial Performance Dashboard *(Power BI)*
+## 📊 Business Performance Dashboard *(Power BI)*
 
 An interactive financial analytics dashboard designed to monitor revenue, expenses, profitability trends, and operational KPIs through executive-focused reporting and data storytelling.
 
