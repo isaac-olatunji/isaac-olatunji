@@ -34,15 +34,24 @@ I'm especially interested in:
 
 ## 📊 Business Performance Dashboard *(Power BI)*
 
-An interactive financial analytics dashboard designed to monitor revenue, expenses, profitability trends, and operational KPIs through executive-focused reporting and data storytelling.
+## 📌 Project Overview
 
-### Key Focus Areas
-- KPI reporting
-- Financial trend analysis
-- Data modelling
-- DAX calculations
-- Interactive dashboard design
-- Stakeholder-focused insights
+The Business Performance Dashboard is an interactive Power BI solution designed to monitor and analyse organisational performance across sales, profitability, product performance, operational trends, and business risk indicators.
+
+The dashboard was built to simulate how executives and decision-makers use Business Intelligence tools to monitor KPIs, identify performance drivers, evaluate risks, and make data-driven strategic decisions.
+
+The project combines business reporting, analytical storytelling, and interactive visualisation to transform raw business data into actionable insights for both technical and non-technical stakeholders.
+
+## 🎯 Key Focus Areas
+- Executive KPI Monitoring
+- Sales & Profitability Analysis
+- Product Performance Evaluation
+- Business Trend Analysis
+- Risk Identification & Monitoring
+- Business Driver Analysis
+- Interactive Reporting & Filtering
+- Data Storytelling & Insight Communication
+- Stakeholder-Focused Dashboard Design
 
 ### Tools Used
 Power BI • Power Query • DAX • Excel
