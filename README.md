@@ -38,7 +38,7 @@ Interactive Power BI dashboard analysing sales performance, profitability, disco
 
 **Tools:** Power BI • Power Query • DAX
 
-🔗 [View Project Repository]()
+🔗 [View Project Repository](https://github.com/isaac-olatunji/business-performance-dashboard)
 
 ---
 
