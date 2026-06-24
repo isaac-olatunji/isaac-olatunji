@@ -75,7 +75,7 @@ End-to-end SQL project focused on analysing sales performance, profitability tre
 
 **Tools:** SQL • MySQL
 
-🔗 [View Project Repository](https://github.com/isaac-olatunji/sql-sales-performance-analysis)
+🔗 [View Project Repository](https://github.com/isaac-olatunji/retail-sales-profitability-analysis-sql)
 
 ---
 
